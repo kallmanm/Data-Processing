@@ -26,7 +26,7 @@ Learning points:
 
 ## Extra Content
 - Homework (Läxor)
--Class notes (Lektionsanteckningar)
+- Class notes (Lektionsanteckningar)
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
