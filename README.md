@@ -1,4 +1,5 @@
-# Data-Processing Projects (1-4), home work and practice assignments.
+# Data-Processing Projects (1-4), home work and practice assignments. 
+
 Content from 'Data Processing' @ Acada 2019
 The contents of this folder contain Course projects, home work assignments and learning examples.
 
@@ -26,3 +27,6 @@ Learning points:
 ## Extra Content
 - Homework (Läxor)
 -Class notes (Lektionsanteckningar)
+
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
